@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "frrktagger:mctiers/axe.png",
+      "file": "frkdtagger:mctiers/axe.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:mctiers/mace.png",
+      "file": "frkdtagger:mctiers/mace.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:mctiers/nethop.png",
+      "file": "frkdtagger:mctiers/nethop.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:mctiers/pot.png",
+      "file": "frkdtagger:mctiers/pot.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:mctiers/smp.png",
+      "file": "frkdtagger:mctiers/smp.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:mctiers/sword.png",
+      "file": "frkdtagger:mctiers/sword.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:mctiers/uhc.png",
+      "file": "frkdtagger:mctiers/uhc.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:mctiers/vanilla.png",
+      "file": "frkdtagger:mctiers/vanilla.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:subtiers/dia_smp.png",
+      "file": "frkdtagger:subtiers/dia_smp.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:tier/h.png",
+      "file": "frkdtagger:tier/h.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -92,7 +92,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:tier/l.png",
+      "file": "frkdtagger:tier/l.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:tier/t.png",
+      "file": "frkdtagger:tier/t.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:tier/1.png",
+      "file": "frkdtagger:tier/1.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -119,7 +119,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:tier/2.png",
+      "file": "frkdtagger:tier/2.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -128,7 +128,7 @@
     },
     {
       "type": "bitmap",
-      "file": "frrktagger:tier/3.png",
+      "file": "frkdtagger:tier/3.png",
       "ascent": 7,
       "height": 8,
       "chars": [

@@ -1,0 +1,21 @@
+{
+    "key.categories.frkdtagger": "FRKD",
+    "key.frkdtagger.popup": "Afficher le profil (maintenir + viser)",
+    "key.frkdtagger.config": "Ouvrir les paramètres FrkdTagger",
+    "key.frkdtagger.cycle": "Changer le kit affiché",
+    "frkdtagger.config.title": "Paramètres FrkdTagger",
+    "frkdtagger.opt.enabled": "Activé",
+    "frkdtagger.opt.nametag": "Afficher sur le pseudo",
+    "frkdtagger.opt.playerlist": "Afficher dans la liste",
+    "frkdtagger.opt.kiticon": "Icône du kit",
+    "frkdtagger.opt.colorname": "Colorer le pseudo par tier",
+    "frkdtagger.opt.warning": "Avertissement sanction",
+    "frkdtagger.opt.chat": "Tags dans le chat",
+    "frkdtagger.opt.popup": "Popup au survol",
+    "frkdtagger.opt.highest": "Mode le plus haut",
+    "frkdtagger.opt.kit": "Kit affiché",
+    "frkdtagger.opt.api": "URL de l'API",
+    "frkdtagger.opt.ttl": "Cache TTL (s)",
+    "frkdtagger.opt.apipath": "Chemin de l'API",
+    "key.category.frkdtagger.frkd": "FRKD"
+}

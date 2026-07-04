@@ -16,7 +16,7 @@
     "environment": "client",
     "entrypoints": {
         "client": [
-            "com.meekdev.frrktagger.FrrkTaggerClient"
+            "com.meekdev.frkdtagger.FrkdTaggerClient"
         ]
     },
     "mixins": [

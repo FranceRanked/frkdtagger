@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "package": "com.meekdev.frkdtagger.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "ChatComponentMixin",
+        "PlayerMixin",
+        "PlayerTabOverlayMixin",
+        "TextDisplayMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

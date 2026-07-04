@@ -35,7 +35,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "frrktagger"
+rootProject.name = "frkdtagger"
 
 fun script(loader: String, version: String): String =
     if (version.startsWith("1.")) "build.gradle.kts" else "build.$loader.gradle.kts"

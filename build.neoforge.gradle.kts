@@ -38,7 +38,7 @@ java {
 }
 
 sourceSets.main {
-    java.exclude("**/config/gui/**", "**/render/**", "**/input/**", "**/FrrkClientSetup.java")
+    java.exclude("**/config/gui/**", "**/render/**", "**/input/**", "**/FrkdClientSetup.java")
 }
 
 tasks.processResources {
