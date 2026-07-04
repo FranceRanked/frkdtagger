@@ -1,0 +1,31 @@
+{
+    "schemaVersion": 1,
+    "id": "${id}",
+    "version": "${version}",
+    "name": "${name}",
+    "description": "${description}",
+    "authors": [
+        "Meek"
+    ],
+    "contact": {
+        "sources": "${source}",
+        "issues": "${issues}"
+    },
+    "license": "${license}",
+    "icon": "assets/${id}/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "com.meekdev.frrktagger.FrrkTaggerClient"
+        ]
+    },
+    "mixins": [
+        "${id}.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${fabric_loader_version}",
+        "minecraft": "${mcdep}",
+        "java": ">=${java_version}",
+        "fabric-api": "*"
+    }
+}

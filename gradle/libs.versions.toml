@@ -1,0 +1,7 @@
+[versions]
+loom = "1.17-SNAPSHOT"
+publishing = "0.8.4"
+
+[plugins]
+loom = { id = "dev.architectury.loom", version.ref = "loom" }
+publishing = { id = "me.modmuss50.mod-publish-plugin", version.ref = "publishing" }
