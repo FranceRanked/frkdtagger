@@ -10,7 +10,7 @@ public final class TierFormatter {
     private static final char G_HIGH = '\uE710';
     private static final char G_LOW = '\uE711';
     private static final char G_T = '\uE712';
-    private static final char[] G_DIGIT = {0, '\uE713', '\uE714', '\uE715'};
+    private static final char[] G_DIGIT = {0, '\uE713', '\uE714', '\uE715', '\uE716', '\uE717'};
 
     private TierFormatter() {
     }
